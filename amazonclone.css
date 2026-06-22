@@ -1,0 +1,17 @@
+.a:hover{
+    border: 2px solid yellow;
+    height: 50px;
+    box-shadow: 5px 5px 5px blue;
+}
+.b:hover{
+    height: 20px;
+    border: 2px solid yellow;
+    box-shadow: 5px 5px 5px blue;
+}
+.c:hover{
+    border: 1px solid black;
+    box-shadow: 2px 2px 5px grey;
+}
+.d:hover{
+    text-decoration: underline;
+}
