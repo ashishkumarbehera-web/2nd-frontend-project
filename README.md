@@ -1,1 +1,1 @@
-# 2nd-frontend-project
+# 2nd-AmazonClone-Project
